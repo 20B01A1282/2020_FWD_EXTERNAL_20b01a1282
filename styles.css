@@ -1,0 +1,26 @@
+table{
+    border: 2px;
+    background-color: rgba(30, 30, 160, 0.678);
+    border-radius: 25px;
+}
+td{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+label{
+    color: white;
+}
+h4{
+    color: white;
+    padding: 0%;
+}
+a:hover{
+    color: black;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
